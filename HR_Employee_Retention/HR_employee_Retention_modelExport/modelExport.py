@@ -134,7 +134,7 @@ pipeline = BinaryClassificationPipeline(
             "boolean_fill_value": None,
         },
         "Categorical Pipeline - One Hot Encoder": {
-            "top_n": 10,
+            "top_n": 11,
             "features_to_encode": None,
             "categories": None,
             "drop": "if_binary",
