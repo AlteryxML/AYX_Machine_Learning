@@ -167,7 +167,7 @@ pipeline = BinaryClassificationPipeline(
             "k_neighbors": 5,
         },
         "Logistic Regression Classifier": {
-            "penalty": "10",
+            "penalty": "15",
             "C": 1.0,
             "n_jobs": -1,
             "multi_class": "auto",
